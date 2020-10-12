@@ -1,5 +1,5 @@
 {
-    "TEST_zshrc": "rcs/zshrc",
-    "TEST_vimrc": "rcs/zshrc",
-    "TEST_bashrc": "rcs/bashrc"
+    "zshrc": "rcs/zshrc",
+    "vimrc": "rcs/zshrc",
+    "bashrc": "rcs/bashrc"
 }
